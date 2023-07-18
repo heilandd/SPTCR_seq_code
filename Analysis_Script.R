@@ -1,7 +1,7 @@
 ## Analysis Script of the SPTCR-seq Data analysis
 ## By D. H. Heiland, Microenvironment and Immunology Research Laboratory
 ## The ST data can be downloaded via SPATAData: https://github.com/theMILOlab/SPATAData
-## The SPTCR-seq raw data are placed in the repository: 
+## The SPTCR-seq raw data are placed in the repository: https://osf.io/65y3t
 
 
 
